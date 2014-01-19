@@ -287,5 +287,5 @@ end
   objects layer 9.  
 ]]
 function Entity:getDrawingLayer()
-  return 4
+  return 3 
 end
